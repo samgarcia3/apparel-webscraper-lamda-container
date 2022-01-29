@@ -8,11 +8,16 @@ This web scraper uses beautiful soup to extract clothing information onto a csv 
 
 As fast fashion continues to grow (Growing at a rate of 5.8% from 2020 to 2021,(IBISWorld, 2021)) the carbon footprint it leaves behind has a major impact on our planet. In order to mitigate this sustainability crises this project aims to look at every step within the fashion value chain which includes fiber production, production, delivery, usage and after use disposal.
 
-Ways to reduce fashions carbon footprint:
+# TEST
 
-1.
-2.
-3.
+This is a ongoing project and will be updated periodically
 
+# Learnings
+
+**Basic Code Structure for Web Scraping**
+1. Get HTML (local or remote)
+2. Create BeutifulSoup Object
+3. Parss Required Element
+4. Save the text inside the element for later use
 
 
