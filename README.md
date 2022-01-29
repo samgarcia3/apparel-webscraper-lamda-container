@@ -8,7 +8,7 @@ This web scraper uses beautiful soup to extract clothing information onto a csv 
 
 As fast fashion continues to grow (Growing at a rate of 5.8% from 2020 to 2021,(IBISWorld, 2021)) the carbon footprint it leaves behind has a major impact on our planet. In order to mitigate this sustainability crises this project aims to look at every step within the fashion value chain which includes fiber production, production, delivery, usage and after use disposal.
 
-# TEST
+# Updates
 
 This is a ongoing project and will be updated periodically
 
