@@ -6,4 +6,6 @@ response = requests.get(url_to_parse)
 print(response)
 response_text = response.text
 soup = BeautifulSoup(response_text, 'lxml')
-print(soup.prettify())
+toc = soup.find_all("span",class_="toctext")
+for item in toc:
+    print(item)
