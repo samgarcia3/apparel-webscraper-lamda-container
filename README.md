@@ -2,7 +2,7 @@
 
 This project containerises a web scraper that can query Product Images and Product Details then scrape and save a specified number of results to an AWS S3 Bucket of choice.
 
-This web scraper uses beautiful soup to extract clothing information onto a csv file. Later the project will be migrated to a back end framework to use as an API. The areas of impact include fibre production, 
+This web scraper uses beautiful soup and scrapy to extract clothing information onto a csv file. Later the project will be migrated to a back end framework to use as an API. 
 
 # Background
 
@@ -16,7 +16,7 @@ This is a ongoing project and will be updated periodically
 
 **Basic Code Structure for Web Scraping**
 1. Get HTML (local or remote)
-2. Create BeutifulSoup Object
+2. Create BeutifulSoup/Scrapy Object
 3. Parss Required Element
 4. Save the text inside the element for later use
 
